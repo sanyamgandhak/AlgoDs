@@ -1,6 +1,17 @@
 #include<iostream>
 using namespace std;
 
+int merge(int A[] , int l , int m ,int r)
+{
+    int i,j,k;
+    int n1 =  l;
+    int n2 = r;
+
+    cout<<"merge short"<<endl;
+    cout<<"merge short"<<endl;       
+
+}
+
 void mergeSort(int A[],int l ,int r)
 {
     if(l < r)
