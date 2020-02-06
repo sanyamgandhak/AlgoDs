@@ -8,6 +8,7 @@ int merge(int A[] , int l , int m ,int r)
     int n2 = r;
 
     cout<<"merge short"<<endl;
+    cout<<"merge short"<<endl;
 
 }
 
